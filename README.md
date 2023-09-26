@@ -1,6 +1,7 @@
-## Olá, eu sou o Eder Honorato! 👋🏽
+## Print("Olá, eu sou Eder Filho! 👋🏽")
 
 ### Sobre
 
 Programador Back-End focado em:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
